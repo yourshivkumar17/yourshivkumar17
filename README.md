@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Shiv Kumar
-**A passionate Cloud Engineer || DevOps Engineer || Shiv Kumar from India**
+**💻 Profession: Web Developer | Java Coder | Python Coder | Shiv Kumar from India**
 
-Email Me 👉 ✉️ **yourshivkumar17@gmail.com.** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **yourshivkumar17@gmail.com.** For Collaboration/Project or Anything Else.
 
 - 🔭 **I’m currently working on:** Web Development 
 - 🌱 **I’m currently learning:** HTML,CSS,JAVA SCRIPT
