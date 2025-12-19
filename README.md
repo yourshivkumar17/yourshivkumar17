@@ -12,10 +12,7 @@ Email Me 👉 ✉️ **yourshivkumar17@gmail.com.** For Collaboration/Project or
 - 😄 **Pronouns:** Shiv Kumar
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-
-
 <!-- Snake Game Repo View -->
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
