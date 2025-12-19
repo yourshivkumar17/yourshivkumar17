@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Shiv Kumar**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Software+Engineer;Java+%7C+Python+%7C+C+Developer;Web+Developer+(React+%7C+JavaScript);Building+Reliable+and+Scalable+Software" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Software+Engineer;Java+%7C+Python+%7C+C+Developer;Web+Developer+(React+%7C+JavaScript)" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 - 💻 Software Engineer  
 - 🌐 Strong interest in Software Engineering and Web Development  
 - 📚 Continuously improving core computer science knowledge  
-- 🚀 Focused on building reliable, efficient, and real-world software solutions  
+- 🚀 Focused on building real-world software  
 
 ---
 
@@ -30,23 +30,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark" />
 </p>
 
-- HTML5 & CSS3 for clean and responsive user interfaces  
-- Modern JavaScript (ES6+) for interactive web applications  
-- React for scalable, component-based front-end development  
-- Responsive Web Design and API-based data integration  
-
----
-
 ### 📚 Core Computer Science
 - Database Management Systems (DBMS)  
-- Software Engineering principles and best practices  
-
----
-
-## 🎯 Professional Focus
-- Writing clean, maintainable, and scalable code  
-- Solving real-world problems through software  
-- Continuously improving technical depth and quality  
+- Software Engineering Principles  
 
 ---
 
