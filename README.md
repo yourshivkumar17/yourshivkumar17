@@ -14,31 +14,37 @@
 - 💻 Software Engineer  
 - 🌐 Strong interest in Software Engineering and Web Development  
 - 📚 Continuously learning core computer science concepts  
-- 🚀 Focused on building real-world skills  
+- 🚀 Focused on building real-world, scalable applications  
 
 ---
 
 ## ⚡ Tech Stack
 
+### 💻 Programming & Core Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,mysql,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,mysql,github&theme=dark" />
+</div>
+
+### 🌐 Web Technologies & Frameworks
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark" />
 </div>
 
 ---
 
 ## 🧠 Core Skills
-- Data Structures & Algorithms  
-- Database Management Systems  
-- Software Engineering Concepts  
-- Problem Solving  
+- Strong foundation in Data Structures & Algorithms  
+- Practical understanding of Database Management Systems (DBMS)  
+- Knowledge of Software Engineering principles and design concepts  
+- Analytical thinking and problem-solving ability  
 
 ---
 
 ## 🎯 What I’m Working On
-- Strengthening Java, Python, and C fundamentals  
-- Building web-based projects  
-- Improving problem-solving skills  
-- Writing clean and efficient code  
+- Developing robust applications using Java and Python  
+- Building modern, responsive web interfaces with HTML, CSS, JavaScript, and React  
+- Improving code quality, readability, and performance  
+- Strengthening problem-solving through continuous practice  
 
 ---
 
