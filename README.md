@@ -18,64 +18,35 @@
 
 ---
 
-<style>
-.tech-icons {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 18px;
-  justify-content: center;
-  margin-top: 10px;
-}
-
-.tech-icons img {
-  height: 48px;
-  transition: transform 0.25s ease, filter 0.25s ease;
-}
-
-.tech-icons img:hover {
-  transform: scale(1.15);
-  filter: drop-shadow(0 0 8px rgba(0,191,255,0.7));
-}
-</style>
-
 ## ⚡ Skills & Technologies
 
 ### 💻 Programming Languages
-<div class="tech-icons">
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" />
-</div>
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c&theme=dark" />
+</p>
 
 ### 🌐 Web Technologies
-<div class="tech-icons">
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark" />
+</p>
 
-- HTML5 & CSS3 for building clean, accessible, and responsive user interfaces  
-- Modern JavaScript (ES6+) for interactive and dynamic web applications  
-- React for developing scalable, component-based front-end architectures  
-- Responsive Web Design for cross-device and cross-browser compatibility  
-- RESTful API integration for data-driven applications  
+- HTML5 & CSS3 for clean and responsive user interfaces  
+- Modern JavaScript (ES6+) for interactive web applications  
+- React for scalable, component-based front-end development  
+- Responsive Web Design and API-based data integration  
 
 ---
 
 ### 📚 Core Computer Science
-- Database Management Systems (DBMS) with strong understanding of data modeling, queries, and data integrity  
-- Software Engineering principles focused on maintainable design, scalability, and best practices  
+- Database Management Systems (DBMS)  
+- Software Engineering principles and best practices  
 
 ---
 
-## 🧠 Professional Focus
+## 🎯 Professional Focus
 - Writing clean, maintainable, and scalable code  
-- Applying software engineering best practices  
-- Solving real-world problems through code  
-- Continuously improving technical depth  
+- Solving real-world problems through software  
+- Continuously improving technical depth and quality  
 
 ---
 
