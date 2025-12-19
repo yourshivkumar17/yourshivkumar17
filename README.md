@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Shiv Kumar**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=B.Tech+CSE+Student;Python+%7C+Java+Developer;Aspiring+Software+Engineer;Consistency+Over+Motivation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Engineer;Python+%7C+Java+Developer;Web+Development+Enthusiast;Consistency+Over+Motivation" />
 </p>
 
 <p align="center">
@@ -11,10 +11,10 @@
 ---
 
 ## 🌱 About Me
-- 🎓 B.Tech 1st Year – Computer Science  
-- 💻 Interested in Software Engineering & Backend  
-- 🧠 Learning Core CS Subjects + Coding  
-- 🚀 Goal: Internships → Placements  
+- 💻 Software Engineer  
+- 🌐 Strong interest in Software Engineering and Web Development  
+- 📚 Continuously learning core computer science concepts  
+- 🚀 Focused on building skills for real-world development  
 
 ---
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 📊 Coding Activity (Snake ka Clean Alternative)
+## 📊 Coding Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" />
@@ -37,19 +37,16 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" height="160"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" height="160"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" height="160"/>
 </div>
 
 ---
 
 ## 🧠 Core Skills
 - Data Structures & Algorithms  
-- DBMS  
-- Software Engineering  
+- Database Management Systems  
+- Software Engineering Concepts  
 - Problem Solving  
 
 ---
