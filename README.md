@@ -14,7 +14,7 @@
 - 💻 Software Engineer  
 - 🌐 Strong interest in Software Engineering and Web Development  
 - 📚 Continuously learning core computer science concepts  
-- 🚀 Focused on building skills for real-world development  
+- 🚀 Focused on building real-world skills  
 
 ---
 
@@ -22,23 +22,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,html,mysql,github&theme=dark" />
-</div>
-
----
-
-## 📊 Coding Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" height="160"/>
 </div>
 
 ---
@@ -51,11 +34,16 @@
 
 ---
 
-## 👀 Profile Visitors
+## 🎯 What I’m Working On
+- Improving programming fundamentals  
+- Building web development projects  
+- Strengthening logical thinking  
+- Writing clean and maintainable code  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat-square" />
-</p>
+---
+
+## 🌊 Developer Mindset
+> *“Focus on learning deeply, building consistently, and improving every day.”*
 
 ---
 
