@@ -1,11 +1,11 @@
 # 👋 Hi, I’m **Shiv Kumar**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Engineer;Python+%7C+Java+Developer;Web+Development+Enthusiast;Consistency+Over+Motivation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=520&lines=Software+Engineer;Java+%7C+Python+%7C+C+Developer;Web+Development+Enthusiast;Consistency+Over+Motivation" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=Welcome%20to%20my%20Profile&fontColor=ffffff&fontSize=28" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1CB5E0,50:3A7BD5,100:1CB5E0&height=120&section=header&text=Welcome%20to%20my%20Profile&fontColor=ffffff&fontSize=30&animation=fadeIn" />
 </p>
 
 ---
@@ -35,18 +35,18 @@
 ---
 
 ## 🎯 What I’m Working On
-- Improving programming fundamentals  
-- Building web development projects  
-- Strengthening logical thinking  
-- Writing clean and maintainable code  
+- Strengthening Java, Python, and C fundamentals  
+- Building web-based projects  
+- Improving problem-solving skills  
+- Writing clean and efficient code  
 
 ---
 
 ## 🌊 Developer Mindset
-> *“Focus on learning deeply, building consistently, and improving every day.”*
+> *“Consistency beats talent when talent doesn’t work consistently.”*
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1CB5E0,50:3A7BD5,100:1CB5E0&height=100&section=footer" />
 </p>
