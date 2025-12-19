@@ -56,3 +56,23 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1CB5E0,50:3A7BD5,100:1CB5E0&height=100&section=footer" />
 </p>
+
+---
+
+## 🎮 Developer Playground
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="420" />
+</p>
+
+<p align="center">
+  <b>Quick break with interactive games</b><br/>
+  Designed to refresh the mind and strengthen logic & focus
+</p>
+
+<p align="center">
+  🔹 <a href="https://play2048.co/" target="_blank">2048 Puzzle</a>  
+  🔹 <a href="https://chromedino.com/" target="_blank">Chrome Dino</a>  
+  🔹 <a href="https://tic-tac-toe-game-react.netlify.app/" target="_blank">Tic-Tac-Toe (React)</a>
+</p>
+
