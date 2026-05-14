@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00E5FF&height=180&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 ---
@@ -74,7 +74,7 @@
 # 🌊 Developer Philosophy
 
 <p align="center">
-  
+
 > ### *“Consistency beats talent when talent doesn’t work consistently.”*
 
 </p>
@@ -106,11 +106,11 @@
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  
+
   <a href="https://linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
+
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -119,5 +119,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:2575FC,100:6A11CB&height=120&section=footer"/>
 </p>
