@@ -12,14 +12,14 @@
 
 # 🚀 About Me
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 💻 Passionate about building scalable and efficient software  
-- 🌐 Enthusiastic about Web Development & Modern UI Design  
+- 🌐 Interested in Web Development & Modern UI Design  
 - 📚 Continuously learning Computer Science fundamentals  
-- ⚡ Focused on writing clean, optimized, and maintainable code  
-- 🎯 Interested in Software Engineering, DBMS, and Problem Solving  
-- 🚀 Exploring real-world development using Java, Python, and React  
+- ⚡ Focused on clean, optimized, and maintainable code  
+- 🎯 Exploring Java, Python, React, and Backend Development  
+- 🚀 Strong interest in Software Engineering & Problem Solving  
 
 <br><br>
 
@@ -27,7 +27,7 @@
 
 # 🛠️ Tech Stack
 
-## 💻 Languages & Core Technologies
+### 💻 Languages & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,mysql,git,github,vscode&theme=dark" />
@@ -35,7 +35,7 @@
 
 ---
 
-## 🌐 Web Development
+### 🌐 Web Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express&theme=dark" />
@@ -43,7 +43,7 @@
 
 ---
 
-## ⚙️ Tools & Platforms
+### ⚙️ Tools & Platforms
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,postman,figma&theme=dark" />
@@ -57,10 +57,10 @@
 ✔ Data Structures & Algorithms
 ✔ Database Management Systems (DBMS)
 ✔ Software Engineering Principles
-✔ Object-Oriented Programming (OOP)
+✔ Object-Oriented Programming
 ✔ Frontend Development
 ✔ Problem Solving & Analytical Thinking
-✔ Clean Code & Performance Optimization
+✔ Clean Code Practices
 ```
 
 ---
@@ -68,13 +68,13 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
-  <img width="49%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -82,7 +82,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ---
@@ -90,18 +90,18 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
 
 # 🎯 Current Focus
 
-- 🚀 Building responsive and modern web applications  
-- 📚 Strengthening DSA and core CS concepts  
-- ⚡ Improving backend and API development skills  
-- 🧩 Practicing real-world project development  
-- 🔥 Consistency in coding and learning every day  
+- 🚀 Building responsive and scalable applications  
+- 📚 Strengthening DSA and Core CS concepts  
+- ⚡ Learning Backend & API Development  
+- 🧩 Solving coding problems consistently  
+- 🔥 Improving development workflow and productivity  
 
 ---
 
@@ -126,8 +126,8 @@
 </p>
 
 <p align="center">
-  🎯 <a href="https://play2048.co/" target="_blank">2048 Puzzle</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🦖 <a href="https://chromedino.com/" target="_blank">Chrome Dino</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🎯 <a href="https://play2048.co/" target="_blank">2048 Puzzle</a> &nbsp; • &nbsp;
+  🦖 <a href="https://chromedino.com/" target="_blank">Chrome Dino</a> &nbsp; • &nbsp;
   ❌⭕ <a href="https://tic-tac-toe-game-react.netlify.app/" target="_blank">Tic-Tac-Toe</a>
 </p>
 
@@ -136,14 +136,14 @@
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/YOUR_USERNAME">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  
+
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
@@ -152,5 +152,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 </p>
