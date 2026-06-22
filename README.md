@@ -1,89 +1,123 @@
-# 👋 Hi, I'm Shiv Kumar
-
-### 🚀 Software Engineer | Java Developer | Problem Solver
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 B.Tech CSE Student
-- 💻 Passionate about Software Development
-- 🌱 Currently Learning React, DSA & System Design
-- 🚀 Building Real-World Projects
-- 📚 Exploring Software Engineering Concepts
-- ⚡ Consistency Over Motivation
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 💬 Real-Time Chat Application
-- Java Socket Programming
-- Multi Client Support
-- Real-Time Messaging
-
-### 📚 Student Management System
-- Java + MySQL
-- CRUD Operations
-
-### 🌦 Weather App
-- React + API Integration
-
----
-
-## 📊 GitHub Stats
+# 👋 Hi, I’m **Shiv Kumar**
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Java+%7C+Python+%7C+C+Developer;Web+Development+Enthusiast;Building+Scalable+and+Efficient+Applications;Consistency+Over+Motivation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00E5FF&height=180&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 ---
 
-## 🎯 Current Goals
+# 💫 About Me
 
-- ✅ Master DSA
-- ✅ Build Full Stack Projects
-- ✅ Learn System Design
-- ✅ Contribute to Open Source
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
----
+- 💻 Passionate about **Software Engineering & Development**
+- 🌐 Interested in **Web Development and Scalable Applications**
+- 📚 Continuously learning **Computer Science fundamentals**
+- 🚀 Focused on writing **clean, optimized, and maintainable code**
+- 🧠 Strong interest in **Problem Solving & Logic Building**
+- ⚡ Believer in **Consistency, Discipline, and Continuous Improvement**
 
-## 📫 Connect With Me
-
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: your-email@example.com
+<br clear="right"/>
 
 ---
 
-### 💡 Quote
+# ⚡ Tech Stack
 
-> "First, solve the problem. Then, write the code."
+## 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,javascript&theme=dark" />
+</p>
 
-⭐ Thanks for visiting my profile!
+## 🌐 Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" />
+</p>
+
+## 🛠️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,github,vscode,git&theme=dark" />
+</p>
+
+---
+
+# 🧠 Core Skills
+
+<div align="center">
+
+| Skills | Description |
+|--------|-------------|
+| 📌 Data Structures & Algorithms | Strong problem-solving foundation |
+| 🗄️ DBMS | Understanding of database concepts and SQL |
+| 🏗️ Software Engineering | Knowledge of SDLC, design principles & development practices |
+| 🌍 Web Development | Responsive and modern web interfaces |
+| ⚙️ Programming | Java, Python, C, and JavaScript development |
+| 🚀 Optimization | Focus on readability, efficiency, and maintainability |
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+- 🚀 Building real-world projects using **Java & Python**
+- 🌐 Creating responsive applications with **React**
+- 📖 Improving understanding of **System Design & Software Engineering**
+- 💡 Practicing **DSA and problem-solving regularly**
+- 🔥 Exploring modern development workflows and best practices
+
+---
+
+# 🌊 Developer Philosophy
+
+<p align="center">
+
+> ### *“Consistency beats talent when talent doesn’t work consistently.”*
+
+</p>
+
+---
+
+# 🎮 Developer Playground
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="420"/>
+</p>
+
+<p align="center">
+  <b>Quick refresh with interactive games & logic boosters</b><br/>
+  Designed to sharpen focus, creativity, and thinking ability
+</p>
+
+<p align="center">
+  🎯 <a href="https://play2048.co/" target="_blank">2048 Puzzle</a> &nbsp; | &nbsp;
+  🦖 <a href="https://chromedino.com/" target="_blank">Chrome Dino</a> &nbsp; | &nbsp;
+  ❌⭕ <a href="https://tic-tac-toe-game-react.netlify.app/" target="_blank">Tic-Tac-Toe</a>
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:2575FC,100:6A11CB&height=120&section=footer"/>
+</p>
