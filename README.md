@@ -1,183 +1,89 @@
 # 👋 Hi, I'm Shiv Kumar
 
-<h3 align="center">🚀 Software Engineer | Java Developer | Problem Solver</h3>
+### 🚀 Software Engineer | Java Developer | Problem Solver
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Java+Developer;Web+Development+Enthusiast;DSA+Learner;Building+Real+World+Projects;Consistency+Over+Motivation" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00E5FF&height=220&section=header&text=Welcome%20To%20My%20GitHub%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-# 💫 About Me
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+## 👨‍💻 About Me
 
 - 🎓 B.Tech CSE Student
 - 💻 Passionate about Software Development
-- 🌱 Currently Learning React.js & DSA
-- 🚀 Building Real World Projects
-- 📚 Learning Software Engineering
+- 🌱 Currently Learning React, DSA & System Design
+- 🚀 Building Real-World Projects
+- 📚 Exploring Software Engineering Concepts
 - ⚡ Consistency Over Motivation
 
-<br clear="right"/>
+---
+
+## 🛠 Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-# 🔥 Currently Coding
+## 🚀 Featured Projects
 
-```java
-public class ShivKumar {
-
-    public static void main(String[] args) {
-
-        while(true) {
-            learn();
-            code();
-            buildProjects();
-            improve();
-        }
-    }
-}
-```
-
----
-
-# ⚡ Tech Stack
-
-### 💻 Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript&theme=dark" />
-</p>
-
-### 🌐 Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
-</p>
-
-### ⚙️ Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-</p>
-
-### 🗄️ Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-</p>
-
-### 🛠 Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 💬 Real Time Chat Application
+### 💬 Real-Time Chat Application
 - Java Socket Programming
 - Multi Client Support
-- Real Time Messaging
+- Real-Time Messaging
 
-## 📚 Student Management System
+### 📚 Student Management System
 - Java + MySQL
 - CRUD Operations
 
-## 🌦 Weather App
-- React.js
-- API Integration
+### 🌦 Weather App
+- React + API Integration
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue" />
 </p>
 
 ---
 
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
----
-
-# 🧠 LeetCode Stats
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark"/>
-</p>
-
----
-
-# 🎯 2026 Goals
+## 🎯 Current Goals
 
 - ✅ Master DSA
 - ✅ Build Full Stack Projects
 - ✅ Learn System Design
-- ✅ Open Source Contribution
-- ✅ Crack Software Engineering Roles
+- ✅ Contribute to Open Source
 
 ---
 
-# 💭 Quote
+## 📫 Connect With Me
 
-<p align="center">
-
-### "Consistency beats talent when talent doesn't work consistently."
-
-</p>
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- Email: your-email@example.com
 
 ---
 
-# 🤝 Connect With Me
+### 💡 Quote
 
-<p align="center">
+> "First, solve the problem. Then, write the code."
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blue&style=flat"/>
-</p>
-
-<p align="center">
-⭐ Thanks for visiting my profile ⭐
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:2575FC,100:6A11CB&height=120&section=footer"/>
-</p>
+⭐ Thanks for visiting my profile!
