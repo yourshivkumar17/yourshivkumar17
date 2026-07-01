@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Shiv Kumar**
+<h1 align="center">👋 Hi, I'm Shiv Kumar</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Java+%7C+Python+%7C+C+Developer;Web+Development+Enthusiast;Building+Scalable+and+Efficient+Applications;Consistency+Over+Motivation" />
@@ -8,9 +8,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00E5FF&height=180&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
----
+<br/>
 
-# 💫 About Me
+## 💫 About Me
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -25,28 +25,26 @@
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
-## 💻 Programming Languages
+### 💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,javascript&theme=dark" />
 </p>
 
-## 🌐 Web Development
+### 🌐 Web Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" />
 </p>
 
-## 🛠️ Tools & Platforms
+### 🛠️ Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,github,vscode,git&theme=dark" />
 </p>
 
 ---
 
-# 🧠 Core Skills
-
-<div align="center">
+## 🧠 Core Skills
 
 | Skills | Description |
 |--------|-------------|
@@ -57,11 +55,9 @@
 | ⚙️ Programming | Java, Python, C, and JavaScript development |
 | 🚀 Optimization | Focus on readability, efficiency, and maintainability |
 
-</div>
-
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 - 🚀 Building real-world projects using **Java & Python**
 - 🌐 Creating responsive applications with **React**
@@ -71,17 +67,30 @@
 
 ---
 
-# 🌊 Developer Philosophy
+## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
 
-> ### *“Consistency beats talent when talent doesn’t work consistently.”*
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
 
+> Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username to activate these stat cards.
+
+---
+
+## 🌊 Developer Philosophy
+
+<p align="center">
+  <i>"Consistency beats talent when talent doesn't work consistently."</i>
 </p>
 
 ---
 
-# 🎮 Developer Playground
+## 🎮 Developer Playground
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="420"/>
@@ -93,30 +102,26 @@
 </p>
 
 <p align="center">
-  🎯 <a href="https://play2048.co/" target="_blank">2048 Puzzle</a> &nbsp; | &nbsp;
-  🦖 <a href="https://chromedino.com/" target="_blank">Chrome Dino</a> &nbsp; | &nbsp;
+  🎯 <a href="https://play2048.co/" target="_blank">2048 Puzzle</a> &nbsp;|&nbsp;
+  🦖 <a href="https://chromedino.com/" target="_blank">Chrome Dino</a> &nbsp;|&nbsp;
   ❌⭕ <a href="https://tic-tac-toe-game-react.netlify.app/" target="_blank">Tic-Tac-Toe</a>
 </p>
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
-  <a href="https://linkedin.com/">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:2575FC,100:6A11CB&height=120&section=footer"/>
