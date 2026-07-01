@@ -1,6 +1,11 @@
+```md
 # <p align="center">Hi 👋, I'm Shiv Kumar</p>
 
 <h3 align="center">Software Engineer • Java Developer • Full Stack Developer • Open Source Contributor</h3>
+
+<p align="center">
+🏆 <b>Google AI Professional Certified</b>
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&color=00E5FF&lines=Software+Engineer;Full+Stack+Developer;Java+%7C+Python+%7C+C+Developer;DSA+Enthusiast;Building+Scalable+Applications" />
@@ -35,41 +40,31 @@
 ### Languages
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=java,python,c,javascript&theme=dark"/>
-
 </p>
 
 ### Frontend
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark"/>
-
 </p>
 
 ### Backend
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
-
 </p>
 
 ### Database
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
-
 </p>
 
 ### Tools
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
-
 </p>
 
 ---
@@ -87,15 +82,12 @@
 
 ---
 
-# 🏆 Certifications
+# 🏆 Certifications & Achievements
 
-🏅 Google AI Professional Certificate
-
-🎓 NPTEL Elite – Software Engineering (IIT Kharagpur)
-
-🎓 NPTEL – Introduction to Environmental Engineering and Science (IIT Kharagpur)
-
-⭐ Open Source Contributor – GirlScript Summer of Code (GSSoC) 2026
+- 🥇 Google AI Professional Certificate
+- 🎓 NPTEL Elite – Software Engineering (IIT Kharagpur)
+- 🎓 NPTEL – Introduction to Environmental Engineering and Science (IIT Kharagpur)
+- ⭐ Open Source Contributor – GirlScript Summer of Code (GSSoC) 2026
 
 ---
 
@@ -106,29 +98,6 @@
 - 📚 Data Structures & Algorithms
 - ⚡ System Design
 - ☁️ Modern Software Engineering Practices
-
----
-
-# 📂 Featured Projects
-
-### 💬 Real-Time Chat Application
-
-- Authentication
-- Real-Time Messaging
-- Responsive UI
-- Modern React Architecture
-
----
-
-### 🌐 Portfolio Website
-
-- React
-- Responsive Design
-- Modern UI
-
----
-
-### 📌 More Projects Coming Soon...
 
 ---
 
@@ -153,7 +122,6 @@
 ---
 
 <p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6A11CB,50:2575FC,100:00E5FF"/>
-
 </p>
+```
