@@ -1,139 +1,159 @@
-# 👋 Hi, I’m **Shiv Kumar**
+# <p align="center">Hi 👋, I'm Shiv Kumar</p>
+
+<h3 align="center">Software Engineer • Java Developer • Full Stack Developer • Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Java+%7C+Python+%7C+C+Developer;Web+Development+Enthusiast;Building+Scalable+and+Efficient+Applications;Consistency+Over+Motivation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&color=00E5FF&lines=Software+Engineer;Full+Stack+Developer;Java+%7C+Python+%7C+C+Developer;DSA+Enthusiast;Building+Scalable+Applications" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00E5FF&height=180&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
----
-
-# 💫 About Me
-
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-* 💻 Passionate about **Software Engineering & Development**
-* 🌐 Interested in **Web Development and Scalable Applications**
-* 📚 Strong foundation in **Computer Science Fundamentals**
-* 🚀 Focused on writing **clean, optimized, and maintainable code**
-* 🧠 Strong interest in **Problem Solving & Logic Building**
-* ⚡ Believer in **Consistency, Discipline, and Continuous Improvement**
-* 🏆 **Google AI Professional Certified**
-* 🎓 **NPTEL Elite Certified – Software Engineering (Indian Institute of Technology, IIT Kharagpur)**
-* 🎓 **NPTEL Certified – Introduction to Environmental Engineering and Science (Indian Institute of Technology, IIT Kharagpur)**
-* ⭐ **Open Source Contributor @ GirlScript Summer of Code (GSSoC) 2026**
-
-<br clear="right"/>
-
----
-
-# ⚡ Tech Stack
-
-## 💻 Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,javascript&theme=dark" />
-</p>
-
-## 🌐 Web Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" />
-</p>
-
-## 🛠️ Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,github,vscode,git&theme=dark" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00E5FF,50:2575FC,100:6A11CB&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=34&animation=fadeIn"/>
 </p>
 
 ---
 
-# 🧠 Core Skills
+# 🚀 About Me
 
-<div align="center">
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-| Skills                          | Description                                                  |
-| ------------------------------- | ------------------------------------------------------------ |
-| 📌 Data Structures & Algorithms | Strong problem-solving foundation                            |
-| 🗄️ DBMS                        | Understanding of database concepts and SQL                   |
-| 🏗️ Software Engineering        | Knowledge of SDLC, design principles & development practices |
-| 🌍 Web Development              | Responsive and modern web interfaces                         |
-| ⚙️ Programming                  | Java, Python, C, and JavaScript development                  |
-| 🚀 Optimization                 | Focus on readability, efficiency, and maintainability        |
+- 💻 Passionate about Software Engineering & Full Stack Development
+- 🌱 Currently learning **Backend Development & System Design**
+- 💡 Strong interest in **Data Structures & Algorithms**
+- ⚙️ Love writing clean, scalable and maintainable code
+- 📚 Always learning modern technologies
+- 🏆 Google AI Professional Certified
+- 🎓 NPTEL Elite Certified – Software Engineering (IIT Kharagpur)
+- 🎓 NPTEL Certified – Introduction to Environmental Engineering and Science (IIT Kharagpur)
+- ⭐ Open Source Contributor @ GirlScript Summer of Code (GSSoC) 2026
 
-</div>
-
----
-
-# 🏆 Certifications & Achievements
-
-* 🥇 **Google AI Professional Certificate**
-* 🎓 **NPTEL Elite Certificate – Software Engineering** *(Indian Institute of Technology, IIT Kharagpur)*
-* 🎓 **NPTEL Certificate – Introduction to Environmental Engineering and Science** *(Indian Institute of Technology, IIT Kharagpur)*
-* ⭐ **Open Source Contributor – GirlScript Summer of Code (GSSoC) 2026*
+<br>
 
 ---
 
-# 🎯 Current Focus
+# 💻 Tech Stack
 
-* 🚀 Building real-world projects using **Java & Python**
-* 🌐 Creating responsive applications with **React**
-* 📖 Improving understanding of **Backend Development & System Design**
-* 💡 Practicing **DSA and problem-solving regularly**
-* 🔥 Exploring modern development workflows and best practices
-
----
-
-# 🌊 Developer Philosophy
+### Languages
 
 <p align="center">
 
-> ### *“Consistency beats talent when talent doesn’t work consistently.”*
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript&theme=dark"/>
+
+</p>
+
+### Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark"/>
+
+</p>
+
+### Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+
+</p>
+
+### Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+
+</p>
+
+### Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
 
 </p>
 
 ---
 
-# 🎮 Developer Playground
+# 🎯 Core Skills
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="420"/>
-</p>
+| Skill | Description |
+|-------|-------------|
+| 💡 DSA | Problem Solving using Java |
+| 🗄️ DBMS | SQL & Database Design |
+| 🌐 Full Stack Development | React, Node.js |
+| ⚙️ Software Engineering | SDLC, Design Principles |
+| 🔥 Programming | Java, Python, C, JavaScript |
+| 🚀 Clean Code | Readability, Optimization & Maintainability |
 
-<p align="center">
-  <b>Quick refresh with interactive games & logic boosters</b><br/>
-  Designed to sharpen focus, creativity, and thinking ability
-</p>
+---
 
-<p align="center">
-  🎯 <a href="https://play2048.co/" target="_blank">2048 Puzzle</a> &nbsp; | &nbsp;
-  🦖 <a href="https://chromedino.com/" target="_blank">Chrome Dino</a> &nbsp; | &nbsp;
-  ❌⭕ <a href="https://tic-tac-toe-game-react.netlify.app/" target="_blank">Tic-Tac-Toe</a>
-</p>
+# 🏆 Certifications
+
+🏅 Google AI Professional Certificate
+
+🎓 NPTEL Elite – Software Engineering (IIT Kharagpur)
+
+🎓 NPTEL – Introduction to Environmental Engineering and Science (IIT Kharagpur)
+
+⭐ Open Source Contributor – GirlScript Summer of Code (GSSoC) 2026
+
+---
+
+# 🌱 Currently Working On
+
+- 🚀 Java Backend Development
+- 🌐 Full Stack Projects
+- 📚 Data Structures & Algorithms
+- ⚡ System Design
+- ☁️ Modern Software Engineering Practices
+
+---
+
+# 📂 Featured Projects
+
+### 💬 Real-Time Chat Application
+
+- Authentication
+- Real-Time Messaging
+- Responsive UI
+- Modern React Architecture
+
+---
+
+### 🌐 Portfolio Website
+
+- React
+- Responsive Design
+- Modern UI
+
+---
+
+### 📌 More Projects Coming Soon...
 
 ---
 
 # 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:2575FC,100:6A11CB&height=120&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6A11CB,50:2575FC,100:00E5FF"/>
+
 </p>
