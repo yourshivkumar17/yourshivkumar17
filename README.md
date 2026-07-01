@@ -1,4 +1,3 @@
-```md
 # <p align="center">Hi 👋, I'm Shiv Kumar</p>
 
 <h3 align="center">Software Engineer • Java Developer • Full Stack Developer • Open Source Contributor</h3>
