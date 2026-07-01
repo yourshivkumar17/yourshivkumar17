@@ -1,29 +1,34 @@
 # <p align="center">Hi 👋, I'm Shiv Kumar</p>
 
-<h3 align="center">Software Engineer • Java Developer • Full Stack Developer • Open Source Contributor</h3>
+<h3 align="center">
+👨‍💻 Software Engineer &nbsp;•&nbsp;
+☕ Java Developer &nbsp;•&nbsp;
+🌐 Full Stack Developer &nbsp;•&nbsp;
+⭐ Open Source Contributor
+</h3>
 
 <p align="center">
   🏆 <b>Google AI Professional Certified</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&color=00E5FF&lines=Software+Engineer;Full+Stack+Developer;Java+%7C+Python+%7C+C+Developer;DSA+Enthusiast;Building+Scalable+Applications;Consistency+Over+Motivation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&color=00E5FF&lines=Software+Engineer;Full+Stack+Developer;Java+%7C+Python+%7C+C+Developer;DSA+Enthusiast;Building+Scalable+Applications;Consistency+Over+Motivation" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00E5FF,50:2575FC,100:6A11CB&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=34&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00E5FF,50:2575FC,100:6A11CB&text=Welcome%20to%20My%20GitHub%20Profile&fontColor=ffffff&fontSize=34&animation=fadeIn"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 💻 Passionate about **Software Engineering & Full Stack Development**
 - 🌱 Currently learning **Backend Development & System Design**
 - 💡 Strong interest in **Data Structures & Algorithms**
-- ⚙️ Love writing **clean, scalable and maintainable code**
+- ⚙️ Love writing **clean, scalable, and maintainable code**
 - 📚 Continuously learning modern technologies and best practices
 - 🏆 **Google AI Professional Certified**
 - 🎓 **NPTEL Elite Certified – Software Engineering (IIT Kharagpur)**
@@ -36,34 +41,34 @@
 
 # 💻 Tech Stack
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,javascript&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript&theme=dark"/>
 </p>
 
-### 🌐 Frontend
+## 🌐 Frontend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark"/>
 </p>
 
-### ⚙️ Backend
+## ⚙️ Backend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
 </p>
 
-### 🗄️ Database
+## 🗄️ Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
 </p>
 
-### 🛠️ Tools & Platforms
+## 🛠️ Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
 </p>
 
 ---
@@ -74,7 +79,7 @@
 |------|-------------|
 | 💡 Data Structures & Algorithms | Strong problem-solving using Java |
 | 🗄️ DBMS | Database Design & SQL |
-| 🌐 Full Stack Development | React & Node.js |
+| 🌐 Full Stack Development | React, Node.js & Modern Web Technologies |
 | ⚙️ Software Engineering | SDLC, OOP & Design Principles |
 | 💻 Programming | Java, Python, C & JavaScript |
 | 🚀 Clean Code | Readability, Optimization & Maintainability |
@@ -93,7 +98,7 @@
 # 🌱 Currently Working On
 
 - 🚀 Java Backend Development
-- 🌐 Full Stack Web Development
+- 🌐 Full Stack Web Development using React & Node.js
 - 📚 Data Structures & Algorithms
 - ⚡ Backend Development & System Design
 - ☁️ Modern Software Engineering Practices
