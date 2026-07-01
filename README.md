@@ -1,128 +1,131 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shiv%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20of%20Things%20that%20Scale&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00E5FF&height=200&section=header&text=Shiv%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Java+%7C+Python+%7C+C+%7C+JavaScript;Building+Scalable+Applications;Consistency+Over+Motivation" />
 
-```
-> whoami
-Shiv Kumar — Software Engineer, obsessed with clean systems
-> status
-Learning, building, breaking, fixing — repeat.
-```
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00E5FF&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br/>
 
-## `01.` About Me
+## 👨‍💻 About Me
 
-I'm someone who'd rather spend three hours automating a five-minute task than do it manually — and I'm not sorry about it. My comfort zone is somewhere between **Java backends**, **Python scripts that shouldn't work but do**, and **React frontends that finally look right on the third rewrite**.
+I'm a Software Engineer who enjoys turning messy problems into clean, working code. I spend most of my time between **backend logic in Java & Python**, **sharpening DSA fundamentals**, and **building responsive interfaces with React** — with a strong bias toward code that's readable six months later, not just code that runs today.
 
-```yaml
-role: Software Engineer
-focus: [Data Structures & Algorithms, System Design, Web Development]
-languages: [Java, Python, C, JavaScript]
-philosophy: "Consistency beats talent when talent doesn't work consistently."
-currently: Building real-world projects, sharpening DSA, going deeper into System Design
-```
+- 🔭 Currently building real-world projects in **Java & Python**
+- 🌱 Currently deepening my understanding of **System Design & Software Engineering principles**
+- 🧩 Practicing **DSA and problem-solving** on a daily basis
+- 💬 Ask me about **Java, Python, DBMS, or Web Development**
+- ⚡ Fun fact: *"Consistency beats talent when talent doesn't work consistently."*
 
 <br/>
 
-## `02.` Stack
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 📌 Core Strengths
 
 <table width="100%">
 <tr>
-<td valign="top" width="33%">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark"/>
-
-</td>
-<td valign="top" width="33%">
-
-**Web**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark"/>
-
-</td>
-<td valign="top" width="33%">
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark"/>
-
-</td>
+<th align="left">Area</th>
+<th align="left">What it means in practice</th>
+</tr>
+<tr>
+<td>🧩 Data Structures & Algorithms</td>
+<td>Solid problem-solving foundation, practiced consistently</td>
+</tr>
+<tr>
+<td>🗄️ DBMS & SQL</td>
+<td>Schema design and queries that hold up at scale</td>
+</tr>
+<tr>
+<td>🏗️ Software Engineering</td>
+<td>SDLC, design principles, and maintainable architecture</td>
+</tr>
+<tr>
+<td>🌍 Web Development</td>
+<td>Responsive, modern interfaces built with React</td>
+</tr>
+<tr>
+<td>🚀 Optimization</td>
+<td>Code that's efficient <em>and</em> readable — not a trade-off</td>
 </tr>
 </table>
 
 <br/>
 
-## `03.` What I Bring
-
-| | |
-|---|---|
-| 🧩 **DSA & Problem Solving** | Strong foundation, practiced consistently — not just for interviews, for actual clean logic |
-| 🗄️ **DBMS & SQL** | Comfortable designing schemas and writing queries that don't fall apart at scale |
-| 🏗️ **Software Engineering** | SDLC, design principles, and writing code meant to be read by someone else |
-| 🌍 **Web Development** | Interfaces that are responsive, fast, and don't feel bolted together |
-| 🚀 **Optimization** | If it works but reads badly, I haven't finished — readability is part of "done" |
-
-<br/>
-
-## `04.` GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00E5FF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="65%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" width="70%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117&color=00E5FF&line=00E5FF&point=ffffff" width="90%"/>
+<img src="https://github-readme-trophies.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=6"/>
 
 </div>
 
-> ⚙️ Swap `YOUR_GITHUB_USERNAME` everywhere with your real username to light these up.
+> ⚙️ Replace `YOUR_GITHUB_USERNAME` in every link above with your actual GitHub username.
 
 <br/>
 
-## `05.` Featured Projects
-
-> Replace these with your actual repos — pinned projects with a real one-liner outperform any badge wall.
+## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_ONE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_ONE&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00E5FF" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_ONE&theme=radical&hide_border=true" width="46%"/>
 </a>
 <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_TWO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_TWO&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00E5FF" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_TWO&theme=radical&hide_border=true" width="46%"/>
 </a>
 
 </div>
 
+> 💡 Tell me your real repo names and what they do, and I'll swap these placeholders for proper pinned cards with accurate one-line descriptions.
+
 <br/>
 
-## `06.` Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00E5FF"/></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
-<br/>
-
 <div align="center">
 
-*"Consistency beats talent when talent doesn't work consistently."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:2575FC,100:6A11CB&height=150&section=footer"/>
 
 </div>
