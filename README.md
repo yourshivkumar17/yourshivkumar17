@@ -1,123 +1,199 @@
-# 👋 Hi, I’m **Shiv Kumar**
+# 👋 Hi, I'm Shiv Kumar
+
+<h3 align="center">
+Software Engineer • Full Stack Developer • Open Source Contributor
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Java+%7C+Python+%7C+C+Developer;Web+Development+Enthusiast;Building+Scalable+and+Efficient+Applications;Consistency+Over+Motivation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1200&color=00C2FF&center=true&vCenter=true&width=850&lines=Software+Engineer;Full+Stack+Developer;Java+%7C+JavaScript+%7C+Python+%7C+C;React+%7C+Node.js+Developer;Open+Source+Contributor+%40+GSSoC+2026;Google+AI+Professional+Certified" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00E5FF&height=180&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue"/>
 </p>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+🎓 B.Tech Computer Science & Engineering (3rd Year)
 
-- 💻 Passionate about **Software Engineering & Development**
-- 🌐 Interested in **Web Development and Scalable Applications**
-- 📚 Continuously learning **Computer Science fundamentals**
-- 🚀 Focused on writing **clean, optimized, and maintainable code**
-- 🧠 Strong interest in **Problem Solving & Logic Building**
-- ⚡ Believer in **Consistency, Discipline, and Continuous Improvement**
+💻 Passionate about Software Engineering and Full Stack Development.
 
-<br clear="right"/>
+🌐 Building scalable and responsive web applications using modern technologies.
+
+🧠 Strong foundation in Data Structures & Algorithms, DBMS, OOP, and Software Engineering.
+
+🚀 Interested in Backend Development, REST APIs, and scalable system design.
+
+⭐ Google AI Professional Certified
+
+🏆 NPTEL Certified (IIT Kharagpur)
+
+🌟 Open Source Contributor @ GirlScript Summer of Code (GSSoC) 2026
 
 ---
 
-# ⚡ Tech Stack
+# 💻 Tech Stack
 
-## 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,javascript&theme=dark" />
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c"/>
 </p>
 
-## 🌐 Web Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" />
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
 </p>
 
-## 🛠️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,github,vscode,git&theme=dark" />
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
 ---
 
 # 🧠 Core Skills
 
-<div align="center">
-
-| Skills | Description |
-|--------|-------------|
-| 📌 Data Structures & Algorithms | Strong problem-solving foundation |
-| 🗄️ DBMS | Understanding of database concepts and SQL |
-| 🏗️ Software Engineering | Knowledge of SDLC, design principles & development practices |
-| 🌍 Web Development | Responsive and modern web interfaces |
-| ⚙️ Programming | Java, Python, C, and JavaScript development |
-| 🚀 Optimization | Focus on readability, efficiency, and maintainability |
-
-</div>
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Software Engineering
+- DBMS
+- SQL
+- REST API Development
+- Full Stack Web Development
+- Problem Solving
+- Git & GitHub
+- Open Source Collaboration
 
 ---
 
-# 🎯 Current Focus
+# 🚀 Featured Projects
 
-- 🚀 Building real-world projects using **Java & Python**
-- 🌐 Creating responsive applications with **React**
-- 📖 Improving understanding of **System Design & Software Engineering**
-- 💡 Practicing **DSA and problem-solving regularly**
-- 🔥 Exploring modern development workflows and best practices
+## 💬 Real-Time Chat Application
+
+**Tech Stack**
+
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Socket.io
+- JWT Authentication
+
+**Features**
+
+- Real-time messaging
+- Secure authentication
+- Responsive UI
+- Fast communication using WebSockets
 
 ---
 
-# 🌊 Developer Philosophy
+## 🌐 Portfolio Website
+
+**Tech Stack**
+
+- React
+- HTML
+- CSS
+- JavaScript
+
+**Features**
+
+- Responsive Design
+- Project Showcase
+- Contact Section
+
+---
+
+# 🏆 Certifications
+
+🥇 Google AI Professional Certificate
+
+🎓 NPTEL Elite Certificate – Software Engineering  
+**Indian Institute of Technology (IIT) Kharagpur**
+
+🎓 NPTEL Certificate – Introduction to Environmental Engineering and Science  
+**Indian Institute of Technology (IIT) Kharagpur**
+
+⭐ Open Source Contributor – GirlScript Summer of Code (GSSoC) 2026
+
+---
+
+# 📚 Currently Learning
+
+- Backend Development
+- Express.js
+- MongoDB
+- REST APIs
+- System Design
+- Advanced React
+- Advanced DSA with Java
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
-> ### *“Consistency beats talent when talent doesn’t work consistently.”*
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🎮 Developer Playground
+# 📫 Connect With Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="420"/>
-</p>
+<p>
 
-<p align="center">
-  <b>Quick refresh with interactive games & logic boosters</b><br/>
-  Designed to sharpen focus, creativity, and thinking ability
-</p>
+📧 Email: YOUR_EMAIL
 
-<p align="center">
-  🎯 <a href="https://play2048.co/" target="_blank">2048 Puzzle</a> &nbsp; | &nbsp;
-  🦖 <a href="https://chromedino.com/" target="_blank">Chrome Dino</a> &nbsp; | &nbsp;
-  ❌⭕ <a href="https://tic-tac-toe-game-react.netlify.app/" target="_blank">Tic-Tac-Toe</a>
+💼 LinkedIn: YOUR_LINKEDIN_URL
+
+🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+
 </p>
 
 ---
 
-# 🤝 Connect With Me
+# 💡 Developer Philosophy
 
-<p align="center">
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+> **"Consistency, discipline, and continuous learning are the foundation of great software engineering."**
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:2575FC,100:6A11CB&height=120&section=footer"/>
+
+### ⭐ Thanks for visiting my GitHub Profile!
+
+If you find my work interesting, consider giving a ⭐ to my repositories.
+
 </p>
