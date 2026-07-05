@@ -62,7 +62,7 @@
 ## 🗄️ Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
 </p>
 
 ## 🛠️ Tools & Platforms
@@ -78,7 +78,7 @@
 | Skill | Description |
 |------|-------------|
 | 💡 Data Structures & Algorithms | Strong problem-solving using Java |
-| 🗄️ DBMS | Database Design & SQL |
+| 🗄️ DBMS | Database Design, SQL, MySQL & MongoDB |
 | 🌐 Full Stack Development | React, Node.js & Modern Web Technologies |
 | ⚙️ Software Engineering | SDLC, OOP & Design Principles |
 | 💻 Programming | Java, Python, C & JavaScript |
@@ -100,6 +100,7 @@
 - 🚀 Java Backend Development
 - 🌐 Full Stack Web Development using React & Node.js
 - 📚 Data Structures & Algorithms
+- 🍃 MongoDB & Express.js
 - ⚡ Backend Development & System Design
 - ☁️ Modern Software Engineering Practices
 
